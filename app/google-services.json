@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525241413883",
+    "project_id": "trip-planner-7123b",
+    "storage_bucket": "trip-planner-7123b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525241413883:android:c9a64f890111fdbce5805e",
+        "android_client_info": {
+          "package_name": "com.tripplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6OiYI9tDQa95XMRzr44X30HwcCqmW59k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
